@@ -1,0 +1,16 @@
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.csprojAssemblyReference.cache
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.AssemblyInfoInputs.cache
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.AssemblyInfo.cs
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.csproj.CoreCompileInputs.cache
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\Await-Async.exe
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\Await-Async.deps.json
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\Await-Async.runtimeconfig.json
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\Await-Async.runtimeconfig.dev.json
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\Await-Async.dll
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\ref\Await-Async.dll
+D:\VsProject\Await-Async\bin\Debug\net5.0-windows\Await-Async.pdb
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.dll
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\ref\Await-Async.dll
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.pdb
+D:\VsProject\Await-Async\obj\Debug\net5.0-windows\Await-Async.genruntimeconfig.cache
