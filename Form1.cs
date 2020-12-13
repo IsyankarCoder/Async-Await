@@ -64,6 +64,7 @@ namespace Await_Async {
         private void ReportProgress (object sender, ProgressReportModel e) {
             progressBar1.Value = e.PercentageComplete;
             PrintResults (e.SiteDownloaded);
+            //
 
         }
 
